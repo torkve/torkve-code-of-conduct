@@ -16,3 +16,9 @@ language, and shoe size (all the same applies to yourself as well), than you sho
 my Code of Conduct.
 
 Feel free to take it and apply to your project.
+
+And we also have ~~cookies~~ shiny badges:
+```markdown
+[![Torkve's Code of Conduct](https://img.shields.io/badge/Torkve's%20CoC-1.0-yellowgreen)](CODE_OF_CONDUCT.md)
+```
+[![Torkve's Code of Conduct](https://img.shields.io/badge/Torkve's%20CoC-1.0-yellowgreen)](CODE_OF_CONDUCT.md)
