@@ -14,7 +14,7 @@
    * Nobody cares about your gender, race, religion, as long as you write good
      code.
    * If you are hitler, or if you are killing kittens, you are definitely a
-     bastard. But as long as your make good PRs, they would be accepted, as
+     bastard. But as long as you make good PRs, they would be accepted, as
      they redeem your guilt a little. A little.
 
 3. We encourage (but not force!) you to adapt this TCoC to other projects:
