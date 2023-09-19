@@ -5,7 +5,7 @@
    have to state that there's nothing wrong to be a human.
    
    * Proposals from cats are accepted as well. Average code written by cats is
-     better than code wrriten by humans.
+     better than code written by humans.
    * Our community is rather inclusive, so other life forms should be tolerated
      as well.
      
